@@ -1,3 +1,2 @@
 ## Optitec_universe
-
-This is the README for the project.
+## AI - Driven fake E-commerces reviews detection
